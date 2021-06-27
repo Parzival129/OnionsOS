@@ -1,0 +1,9 @@
+C:\Users\Ms.BOSS1\source\repos\ONIONS20\ONIONS20\bin\Debug\netcoreapp2.0\cosmos\ONIONS20.deps.json
+C:\Users\Ms.BOSS1\source\repos\ONIONS20\ONIONS20\bin\Debug\netcoreapp2.0\cosmos\ONIONS20.dll
+C:\Users\Ms.BOSS1\source\repos\ONIONS20\ONIONS20\bin\Debug\netcoreapp2.0\cosmos\ONIONS20.pdb
+C:\Users\Ms.BOSS1\source\repos\ONIONS20\ONIONS20\obj\Debug\netcoreapp2.0\cosmos\ONIONS20.csprojAssemblyReference.cache
+C:\Users\Ms.BOSS1\source\repos\ONIONS20\ONIONS20\obj\Debug\netcoreapp2.0\cosmos\ONIONS20.AssemblyInfoInputs.cache
+C:\Users\Ms.BOSS1\source\repos\ONIONS20\ONIONS20\obj\Debug\netcoreapp2.0\cosmos\ONIONS20.AssemblyInfo.cs
+C:\Users\Ms.BOSS1\source\repos\ONIONS20\ONIONS20\obj\Debug\netcoreapp2.0\cosmos\ONIONS20.csproj.CoreCompileInputs.cache
+C:\Users\Ms.BOSS1\source\repos\ONIONS20\ONIONS20\obj\Debug\netcoreapp2.0\cosmos\ONIONS20.dll
+C:\Users\Ms.BOSS1\source\repos\ONIONS20\ONIONS20\obj\Debug\netcoreapp2.0\cosmos\ONIONS20.pdb
