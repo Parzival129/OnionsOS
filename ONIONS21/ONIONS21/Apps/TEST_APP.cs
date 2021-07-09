@@ -13,6 +13,7 @@ namespace TESTTHING
         {
             string text = "The C# import worked!!!";
             Console.WriteLine("IT WORKED!!!");
+	    Console.WriteLin("This is an example of how you can implement external apps");
             return text;
         }
     }
